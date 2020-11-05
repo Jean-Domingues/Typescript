@@ -1,5 +1,6 @@
 // Utilize any apenas em último caso, pois pode desencadear
 //  vários any's em sua aplicação por conta da inferência de tipos
+//    logo não teria o por que usar typescript
 
 function msg(msg: any): any {
   return msg;
