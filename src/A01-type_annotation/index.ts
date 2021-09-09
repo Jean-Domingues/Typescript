@@ -18,7 +18,7 @@ let arrayDeBooleans: Array<boolean> = [true, false, true, false];
 let arrayDeBooleans2: boolean[] = [true, false, true, false];
 
 //objetos
-let pessoa: {nome: string, idade: number, adulto?: boolean} = {
+let pessoa: {nome: string, idade: number, adulto?: boolean} = { // Adulto não é obrigatório
   idade: 30,
   nome: 'Jean'
 };
