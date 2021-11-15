@@ -1,4 +1,5 @@
 /* Recomendado */
+
 // Condicional
 const body1 = document.querySelector('body');
 if (body1) body1.style.background = 'red';
@@ -13,6 +14,7 @@ input.value = 'Qualquer coisa';
 input.focus();
 
 /* Não Recomendado */
+
 // Type assertion
 const body4 = document.querySelector('body') as unknown as number;
 
