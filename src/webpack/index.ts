@@ -1,1 +1,1 @@
-console.log('Bom dia');
+import './exercicio';
