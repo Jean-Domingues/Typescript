@@ -2,10 +2,10 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./src/webpack/exercicio.ts":
-/*!**********************************!*\
-  !*** ./src/webpack/exercicio.ts ***!
-  \**********************************/
+/***/ "./src/webpack/exercicio-validacaoForm.ts":
+/*!************************************************!*\
+  !*** ./src/webpack/exercicio-validacaoForm.ts ***!
+  \************************************************/
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
 
@@ -598,7 +598,7 @@ var exports = __webpack_exports__;
   \******************************/
 
 Object.defineProperty(exports, "__esModule", ({ value: true }));
-__webpack_require__(/*! ./exercicio */ "./src/webpack/exercicio.ts");
+__webpack_require__(/*! ./exercicio-validacaoForm */ "./src/webpack/exercicio-validacaoForm.ts");
 
 })();
 

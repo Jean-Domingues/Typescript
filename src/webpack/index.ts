@@ -1,1 +1,1 @@
-import './exercicio';
+import './exercicio-validacaoForm';
